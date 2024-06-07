@@ -1,4 +1,4 @@
-id: download-module
+id: downloads-module
 name: A module to manage downloads
 description: "Simple extension to test the extension cli commands"
 version: 1.0
