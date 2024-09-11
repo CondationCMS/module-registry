@@ -3,6 +3,6 @@ name: Forms module
 description: "A module to provide simple forms"
 version: 1.2.0
 author: "Thorsten Marx"
-url: "https://github.com/thmarx/forms-module"
-file: "https://github.com/thmarx/forms-module/releases/download/v1.2.0/forms-module-bin.zip"
+url: "https://github.com/CondationCMS/forms-module"
+file: "https://github.com/CondationCMS/forms-module/releases/download/v1.2.0/forms-module-bin.zip"
 compatibility: ">=4.18.1"
