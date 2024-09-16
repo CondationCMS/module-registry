@@ -1,8 +1,8 @@
 id: seo-module
 name: Seo module
 description: "A module to provide simple seo functionalities"
-version: 1.2.0
+version: 2.0.0
 author: "Thorsten Marx"
 url: "https://github.com/CondationCMS/seo-module"
-file: "https://github.com/CondationCMS/seo-module/releases/download/v1.2.0/seo-module-bin.zip"
-compatibility: ">=4.18.1"
+file: "https://github.com/CondationCMS/seo-module/releases/download/v2.0.0/seo-module-bin.zip"
+compatibility: ">=6.0.0"
