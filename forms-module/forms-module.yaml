@@ -2,7 +2,7 @@ id: forms-module
 name: Forms module
 description: "A module to provide simple forms"
 version: 2.0.0
-author: "Thorsten Marx"
+author: "CondationCMS"
 url: "https://github.com/CondationCMS/forms-module"
 file: "https://github.com/CondationCMS/forms-module/releases/download/v2.0.0/forms-module-bin.zip"
 compatibility: ">=6.0.0"

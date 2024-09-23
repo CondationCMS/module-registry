@@ -2,7 +2,7 @@ id: downloads-module
 name: A module to manage downloads
 description: "Simple extension to test the extension cli commands"
 version: 2.0.0
-author: "Thorsten Marx"
+author: "CondationCMS"
 url: "https://github.com/CondationCMS/downloads-module"
 file: "https://github.com/CondationCMS/downloads-module/releases/download/v2.0.0/downloads-module-bin.zip"
 compatibility: ">=6.0.0"
