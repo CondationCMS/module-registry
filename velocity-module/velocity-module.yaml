@@ -1,0 +1,8 @@
+id: velocity-module
+name: Velocity module
+description: "A module to integrate the velocity template engine"
+version: 1.0.0
+author: "CondationCMS"
+url: "https://github.com/CondationCMS/velocity-module"
+file: "https://github.com/CondationCMS/velocity-module/releases/download/v1.0.0/velocity-module-bin.zip"
+compatibility: ">=6.0.0"
