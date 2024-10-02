@@ -1,8 +1,8 @@
 id: thymeleaf-module
 name: Thymeleaf module
 description: "A module to integrate the thymeleaf template engine"
-version: 2.1.0
+version: 2.2.0
 author: "CondationCMS"
 url: "https://github.com/CondationCMS/thymeleaf-module"
-file: "https://github.com/CondationCMS/thymeleaf-module/releases/download/v2.1.0/thymeleaf-module-bin.zip"
-compatibility: ">=6.2.0"
+file: "https://github.com/CondationCMS/thymeleaf-module/releases/download/v2.2.0/thymeleaf-module-bin.zip"
+compatibility: ">=6.3.0"
