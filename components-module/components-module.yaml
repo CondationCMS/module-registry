@@ -1,0 +1,8 @@
+id: components-module
+name: Components module
+description: "Reusable components"
+version: 1.0.0
+author: "CondationCMS"
+url: "https://github.com/CondationCMS/components-module"
+file: "https://github.com/CondationCMS/components-module/releases/download/v1.0.0/components-module-bin.zip"
+compatibility: ">=7.1.0"
