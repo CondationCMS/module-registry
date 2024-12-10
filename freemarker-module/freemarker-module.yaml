@@ -1,8 +1,8 @@
 id: freemarker-module
 name: Freemarker module
 description: "A module to integrate the freemarker template engine"
-version: 4.0.0
+version: 4.0.1
 author: "CondationCMS"
 url: "https://github.com/CondationCMS/freemarker-module"
-file: "https://github.com/CondationCMS/freemarker-module/releases/download/v4.0.0/freemarker-module-bin.zip"
+file: "https://github.com/CondationCMS/freemarker-module/releases/download/v4.0.1/freemarker-module-bin.zip"
 compatibility: ">=7.1.0"

@@ -1,8 +1,8 @@
 id: video-module
 name: Video module
 description: "A module to integration videos form youtube and vimeo"
-version: 2.0.0
+version: 2.0.1
 author: "CondationCMS"
 url: "https://github.com/CondationCMS/video-module"
-file: "https://github.com/CondationCMS/video-module/releases/download/v2.0.0/video-module-bin.zip"
+file: "https://github.com/CondationCMS/video-module/releases/download/v2.0.1/video-module-bin.zip"
 compatibility: ">=7.1.0"
