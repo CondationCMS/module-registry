@@ -1,0 +1,8 @@
+id: redirect-module
+name: Redirect module
+description: "A module to manage redirects"
+version: 1.0.0
+author: "CondationCMS"
+url: "https://github.com/CondationCMS/redirect-module"
+file: "https://github.com/CondationCMS/redirect-module/releases/download/v1.0.0/redirect-module-bin.zip"
+compatibility: ">=7.6.0"
