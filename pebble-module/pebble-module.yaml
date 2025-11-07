@@ -1,9 +1,0 @@
-id: pebble-module
-name: Pebble module
-description: "A module to integrate the pebble template engine"
-version: 3.0.1
-author: "CondationCMS"
-url: "https://github.com/CondationCMS/pebble-module"
-file: "https://github.com/CondationCMS/pebble-module/releases/download/v3.0.1/pebble-module-bin.zip"
-compatibility: ">=7.1.0"
-signature: "02771970920D65750A532E36BD986E7946EB41F50101D5AF373FC5C9EE744636"
