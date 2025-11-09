@@ -1,9 +1,9 @@
 id: seo-module
 name: Seo module
 description: "A module to provide simple seo functionalities"
-version: 3.0.0
+version: 4.0.0
 author: "CondationCMS"
 url: "https://github.com/CondationCMS/seo-module"
-file: "https://github.com/CondationCMS/seo-module/releases/download/v3.0.0/seo-module-bin.zip"
-compatibility: ">=7.1.0"
-signature: "BF2809421266F97D16563D958036DDF4823A63859F9CD46A0E465627F1B09833"
+file: "https://github.com/CondationCMS/seo-module/releases/download/v4.0.0/seo-module-bin.zip"
+compatibility: ">=8.0.0"
+signature: "2677e37e25ca4317637ffd13d97522b840354b186375872f4aa30a7606314258"
