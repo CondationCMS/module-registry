@@ -1,9 +1,9 @@
 id: search-module
 name: Search module
 description: "A module to integrate a simple search"
-version: 3.0.0
+version: 4.0.1
 author: "CondationCMS"
 url: "https://github.com/CondationCMS/search-module"
-file: "https://github.com/CondationCMS/search-module/releases/download/v3.0.0/search-module-bin.zip"
-compatibility: ">=7.1.0"
-signature: "225AA61E67349E4C499483AC9380F38A2050BD9CFDFA57121AC1C5E2D05BF64A"
+file: "https://github.com/CondationCMS/search-module/releases/download/v4.0.1/search-module-bin.zip"
+compatibility: ">=8.0.0"
+signature: "f259839c6a3b890d8772e48572c82923018afc30e34c5c9eed85d2c943cf08a9"
