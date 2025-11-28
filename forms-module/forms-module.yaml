@@ -1,9 +1,9 @@
 id: forms-module
 name: Forms module
 description: "A module to provide simple forms"
-version: 3.0.1
+version: 4.1.0
 author: "CondationCMS"
 url: "https://github.com/CondationCMS/forms-module"
-file: "https://github.com/CondationCMS/forms-module/releases/download/v3.0.1/forms-module-bin.zip"
-compatibility: ">=7.1.0"
-signature: "6C4B6C5AFD36709B71366F5471A451BA3CE80FEF81855BFE3E6354BA2C648C8D"
+file: "https://github.com/CondationCMS/forms-module/releases/download/v4.1.0/forms-module-bin.zip"
+compatibility: ">=8.0.0"
+signature: "6bae86d1739e299ffc425c25e31ff1e46645c24a4af81ee0cc6528737ce50707"
