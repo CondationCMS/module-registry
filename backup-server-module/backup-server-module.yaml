@@ -1,9 +1,9 @@
 id: backup-server-module
 name: Backup server module
 description: "A module server module for basic backups of your CondationCMS installation."
-version: 1.0.0
+version: 1.1.0
 author: "CondationCMS"
 url: "https://github.com/CondationCMS/backup-server-module"
-file: "https://github.com/CondationCMS/backup-server-module/releases/download/v1.0.0/backup-server-module-bin.zip"
+file: "https://github.com/CondationCMS/backup-server-module/releases/download/v1.1.0/backup-server-module-bin.zip"
 compatibility: ">=8.0.0"
-signature: "e1d4619ad8e2f1582a9cb06014e6a2ee30297b595094263fc17afecdae823fe1"
+signature: "60b8ab8c033ec4c095a9ebd86cc2b966596f64cfd1b0035ab3df8f8e6f6c6e15"
