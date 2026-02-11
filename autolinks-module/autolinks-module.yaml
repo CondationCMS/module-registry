@@ -1,9 +1,0 @@
-id: autolinks-module
-name: Autolinks module
-description: "A module to add automatically links to the content"
-version: 1.0.1
-author: "CondationCMS"
-url: "https://github.com/CondationCMS/autolinks-module"
-file: "https://github.com/CondationCMS/autolinks-module/releases/download/v1.0.1/autolinks-module-bin.zip"
-compatibility: ">=7.6.0"
-signature: "EFCC388B6C5DE1189073F5C2DBCF1D808CE67D6029191EECDBAFB8CFF0ACA425"
