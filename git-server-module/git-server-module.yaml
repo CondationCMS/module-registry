@@ -1,0 +1,9 @@
+id: git-server-module
+name: Git server module
+description: "Git integration on server side.."
+version: 1.0.0
+author: "CondationCMS"
+url: "https://github.com/CondationCMS/git-server-module"
+file: "https://github.com/CondationCMS/git-server-module/releases/download/v1.0.0/git-server-module-bin.zip"
+compatibility: ">=8.0.0"
+signature: "622aadab27e99cb98ac517bc170b6dd680aaf584f9a5f0cf1c934ecc977e543e"
